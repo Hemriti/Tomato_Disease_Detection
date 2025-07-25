@@ -20,7 +20,7 @@ The application is useful for:
 
 | Input Image | Detection Result |
 |-------------|------------------|
-| ![Input](application_front.jpg) | ![Output](result.png) |
+| ![Input](front.jpg) | ![Output](result.png) |
 
 
 > 📝 Images are saved automatically to the `runs/detect/` directory after detection.
