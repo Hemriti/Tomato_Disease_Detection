@@ -2,7 +2,7 @@
 
 ![Tomato Banner](images/banner.png)
 
-This repository contains a **Python application** for detecting and classifying tomatoes into **Good** and **Bad** categories using a custom-trained **YOLOv5** model. It is built to help identify healthy vs. rotten tomatoes through computer vision, and it supports **dual datasets** to enhance detection accuracy.
+This repository contains a **Python application** for detecting and classifying tomatoes into **Good** and **Bad** categories using a custom-trained **YOLOv8** model. It is built to help identify healthy vs. rotten tomatoes through computer vision, and it supports **dual datasets** to enhance detection accuracy.
 
 ## 📌 Description
 
@@ -16,12 +16,7 @@ The application is useful for:
 - Quality inspection in sorting lines
 - Smart agriculture solutions
 
-## 🖼️ Sample Results
 
-| Input Image | Detection Result |
-|-------------|------------------|
-| ![Input](images/sample1.jpg) | ![Output](images/result1.png) |
-| ![Input](images/sample2.jpg) | ![Output](images/result2.png) |
 
 > 📝 Images are saved automatically to the `runs/detect/` directory after detection.
 
